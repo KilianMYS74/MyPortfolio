@@ -7,8 +7,8 @@ import vueIcon from '@iconify/icons-logos/vue';
 class About extends Component {
   render() {
     if (this.props.data) {
-      var sectionName = document.documentElement.lang === 'fr' ? 'A Propos' : 'About';
-      var hello = document.documentElement.lang === 'fr' ? 'Salut' : 'Hi';
+      var sectionName = document.documentElement.lang === 'fr' ? 'A propos de moi' : 'About me';
+      var hello = document.documentElement.lang === 'fr' ? 'Bonjour' : 'Hi';
       var profilepic = 'images/' + this.props.data.image;
       var about = this.props.data.description;
     }

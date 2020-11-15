@@ -44,6 +44,7 @@ class App extends Component {
     });
   }
 
+  // Render of flags
   render() {
     return (
       <div>
@@ -54,7 +55,7 @@ class App extends Component {
               style={{display:'inline'}}>
               <span
     className="iconify"
-    data-icon="twemoji-flag-for-flag-french"
+    data-icon="twemoji-flag-for-flag-france"
     data-inline="false"
     style={{fontSize: '50px', cursor: 'pointer'}}
     id="french-flag"
@@ -62,7 +63,7 @@ class App extends Component {
             </div>
             <div
               onClick={() => this.setLanguage('en', 'english-flag')}
-              style={{display:'inline'}}>
+              style={{display:'inline', paddingLeft:20}}>
               <span
     className="iconify"
     data-icon="twemoji-flag-for-flag-united-kingdom"
