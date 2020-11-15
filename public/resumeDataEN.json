@@ -20,7 +20,7 @@
     "projects": [
     {
       "title": "Animal Shelter",
-      "description": "App that handles adoption  :)",
+      "description": "App that handles animals adoption :)",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -102,6 +102,11 @@
           "level": "80"
         },
         {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -124,6 +129,16 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "65"
         },
         {
@@ -164,6 +179,23 @@
           "Swagger",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Company 5555",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
         ]
       }
     ]

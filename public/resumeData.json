@@ -19,8 +19,8 @@
     },
     "projects": [
     {
-      "title": "Animal Shelter",
-      "description": "Aplikacja do zarządzania procesem adopcji :)",
+      "title": "Refuge animalier",
+      "description": "Test de description de projet :)",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -42,8 +42,8 @@
       ]
     },
     {
-      "title": "Photography",
-      "description": "Testowanie nowego aparatu i aplikacji do obróbki zdjęć",
+      "title": "Photographie",
+      "description": "Test de description de projet :)",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "description": "Aplikacja za pomocą której można obejrzeć obiekt z perspektywy drona.",
+      "title": "Visionneuse d'objets 3D",
+      "description": "Test de description de projet :)",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
@@ -102,6 +102,11 @@
           "level": "80"
         },
         {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -124,6 +129,16 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "65"
         },
         {
@@ -164,6 +179,23 @@
           "Swagger",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Company 5555",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
         ]
       }
     ]
