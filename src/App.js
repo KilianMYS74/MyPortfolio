@@ -19,10 +19,10 @@ class App extends Component {
 
   setLanguage(language, idName) {
     document.getElementById(idName).removeAttribute('filter', 'brightness(40%)');
-    var flagId = language === 'pl' ? 'english-flag' : 'polish-flag';
+    var flagId = language === 'fr' ? 'english-flag' : 'french-flag';
     document.getElementById(flagId).setAttribute('filter', 'brightness(40%)')
     document.documentElement.lang = language;
-    var langPath = document.documentElement.lang === 'pl' ? '/resumeData.json' : '/resumeDataEN.json';
+    var langPath = document.documentElement.lang === 'fr' ? '/resumeData.json' : '/resumeDataEN.json';
     this.getResumeData(langPath);
   }
 
@@ -50,26 +50,26 @@ class App extends Component {
         <Header data={this.state.resumeData.main} />
         <div className="col-md-12 mx-auto text-center language">
             <div
-              onClick={() => this.setLanguage('pl', 'polish-flag')}
+              onClick={() => this.setLanguage('fr', 'french-flag')}
               style={{display:'inline'}}>
               <span
-                className="iconify mr-5"
-                data-icon="twemoji-flag-for-flag-poland"
-                data-inline="false"
-                style={{ fontSize: '50px', cursor: 'pointer' }}
-                id="polish-flag"
-              ></span>
+    className="iconify"
+    data-icon="twemoji-flag-for-flag-french"
+    data-inline="false"
+    style={{fontSize: '50px', cursor: 'pointer'}}
+    id="french-flag"
+    />
             </div>
             <div
               onClick={() => this.setLanguage('en', 'english-flag')}
               style={{display:'inline'}}>
               <span
-                className="iconify"
-                data-icon="twemoji-flag-for-flag-united-kingdom"
-                data-inline="false"
-                style={{ fontSize: '50px', cursor: 'pointer' }}
-                id="english-flag"
-              ></span>
+    className="iconify"
+    data-icon="twemoji-flag-for-flag-united-kingdom"
+    data-inline="false"
+    style={{fontSize: '50px', cursor: 'pointer'}}
+    id="english-flag"
+    />
             </div>
           </div>
         <About data={this.state.resumeData.main} />

@@ -1,22 +1,89 @@
 {
     "main": {
-      "name": "Davina Griss",
-      "title": "Front-end Developer",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "name": "Kilian MAYANS",
+      "title": "Développeur Full-Stack",
+      "description": "Étudiant en 5ème année à Epitech, je suis capable de maîtriser un nouveau langage en quelques semaines d'apprentissage. Je suis curieux, débrouillard et j'aime me lancer dans l'inconnu. Je suis actuellement à la recherche d'un stage de fin d'études de 6 mois débutant en février 2021.",
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/KilianMYS74/",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kilian-mayans/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
     },
+    "projects": [
+    {
+      "title": "Animal Shelter",
+      "description": "Aplikacja do zarządzania procesem adopcji :)",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "description": "Testowanie nowego aparatu i aplikacji do obróbki zdjęć",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "description": "Aplikacja za pomocą której można obejrzeć obiekt z perspektywy drona.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
     "resume": {
       "skills": [
         {
@@ -66,73 +133,6 @@
         }
       ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "description": "Aplikacja do zarządzania procesem adopcji :)",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "description": "Testowanie nowego aparatu i aplikacji do obróbki zdjęć",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "description": "Aplikacja za pomocą której można obejrzeć obiekt z perspektywy drona.",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
     "experience": [
       {
         "company": "Company 3398",

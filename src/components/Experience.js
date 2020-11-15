@@ -9,7 +9,7 @@ import Badge from 'react-bootstrap/Badge';
 class Experience extends Component {
   render() {
     if (this.props.data) {
-      var sectionName = document.documentElement.lang === 'pl' ? 'Doświadczenie' : 'Experience';
+      var sectionName = document.documentElement.lang === 'fr' ? 'Expérience' : 'Experience';
       var work = this.props.data.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
