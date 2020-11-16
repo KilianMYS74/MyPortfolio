@@ -18,72 +18,83 @@
       "image": "myProfile.jpg"
     },
     "projects": [
-    {
-      "title": "Animal Shelter",
-      "description": "App that handles animals adoption :)",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "description": "Testing our new camera and photo editor app.",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "description": "App that allows to view the object via drone perspective.",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    }
-  ],
+      {
+        "title": "Iz'Heal",
+        "description": "Iz'Heal, projet Epitech Innovative project (EIP), consists in facilitating the access to the information of people prone to accidents and unable to communicate by emergency personnel such as the fire department, the samu...",
+        "images": [
+          "images/portfolio/izheal/p1.png",
+          "images/portfolio/izheal/p2.png"
+        ],
+        "url": "https://gitlab.com/iz_heal",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "HFit",
+        "description": "HFit, presents itself as a fitness application at first glance classic. However, this one will offer many features found nowhere else. The project is still under development (Flutter/Dart). I made the whole prototype of the application with Figma. Feel free to test it using the link above.",
+        "images": [
+          "images/portfolio/hfit/p1.jpeg",
+          "images/portfolio/hfit/p2.png"
+        ],
+        "url": "https://www.figma.com/proto/daFeABulVYQBOEMilGZcqg/HFIT-Prototype?node-id=0%3A2&scaling=scale-down",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Technologies used: Flutter, Dart"
+          },
+          {
+            "class": "",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "La météo du souffle",
+        "description": "A project that I had the honor of joining during my second year at EPITECH, initiated by Benjamin Guinot, a researcher at the CNRS. An application that was meant to be innovative, involving the French pollen network (RNSA), INSERM, CEA and CNRS, in partnership with the Metropolis of Lyon.",
+        "images": [
+          "images/portfolio/lameteodusouffle/p1.jpg",
+          "images/portfolio/lameteodusouffle/p2.jpg"
+        ],
+        "url": "https://blogs.grandlyon.com/plan-climat/2019/04/23/qualite-de-lair-la-meteo-du-souffle-se-deploie/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          }
+        ]
+      },
+      {
+        "title": "And more to come...",
+        "description": "A lot more projects are coming, all still in development...",
+        "images": [
+          "images/portfolio/tobecontinued/p1.jpg",
+          "images/portfolio/tobecontinued/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          }
+        ]
+      }
+    ],
     "resume": {
       "skills": [
         {

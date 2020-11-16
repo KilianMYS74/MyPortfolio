@@ -19,13 +19,13 @@
     },
     "projects": [
     {
-      "title": "Refuge animalier",
-      "description": "Test de description de projet :)",
+      "title": "Iz'Heal",
+      "description": "Iz'Heal, projet Epitech Innovative project (EIP), consiste à faciliter l'accès aux informations de personnes sujettes à des accidents et dans l'incapacité de communiquer par des personnels d'urgence comme les pompiers, le samu...",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/izheal/p1.png",
+        "images/portfolio/izheal/p2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://gitlab.com/iz_heal",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
@@ -36,53 +36,64 @@
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-python-plain",
+          "name": "Python"
         }
       ]
     },
     {
-      "title": "Photographie",
-      "description": "Test de description de projet :)",
+      "title": "HFit",
+      "description": "HFit, se présente comme une application de fitness à première vue classique. Cependant, celle-ci proposera beaucoup de fonctionnalités rencontrées nulle part ailleurs. Le projet est encore en cours de développement (Flutter/Dart). J'ai réaliser l'intégralité du prototype de l'application avec Figma. N'hésitez pas à tester le prototype en cliquant sur le lien au-dessus.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/hfit/p1.jpeg",
+        "images/portfolio/hfit/p2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://www.figma.com/proto/daFeABulVYQBOEMilGZcqg/HFIT-Prototype?node-id=0%3A2&scaling=scale-down",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "",
+          "name": "Technologies utilisées: Flutter, Dart"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "",
+          "name": "Figma"
         }
       ]
     },
     {
-      "title": "Visionneuse d'objets 3D",
-      "description": "Test de description de projet :)",
+      "title": "La météo du souffle",
+      "description": "Un projet dont j'ai eu l'honneur de rejoindre lors de ma seconde année au sein d'EPITECH, initié par Benjamin Guinot, chercheur au CNRS. Une application qui se voulait innovante, qui associe le réseau pollens français (RNSA), l'INSERM, le CEA et le CNRS, en partenariat avec la Métropole de Lyon.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/lameteodusouffle/p1.jpg",
+        "images/portfolio/lameteodusouffle/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://blogs.grandlyon.com/plan-climat/2019/04/23/qualite-de-lair-la-meteo-du-souffle-se-deploie/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-vuejs-plain",
+          "name": "Vue.js"
         }
       ]
-    }
+    },
+    {
+        "title": "Et plus encore à venir...",
+        "description": "Bien d'autres projets personnels et professionels sont à venir, tous encore en développement ou encore au stade d'idées...",
+        "images": [
+          "images/portfolio/tobecontinued/p1.jpg",
+          "images/portfolio/tobecontinued/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          }
+        ]
+      }
   ],
     "resume": {
       "skills": [
