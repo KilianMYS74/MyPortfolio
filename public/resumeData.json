@@ -102,6 +102,11 @@
           "level": "80"
         },
         {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
+          "level": "80"
+        },
+        {
           "name": "React",
           "class": "devicon-react-original",
           "level": "80"
@@ -150,52 +155,76 @@
     },
     "experience": [
       {
-        "company": "Company 3398",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "AUTO-ENTREPRISE MAYANS",
+        "title": "Freelance Développeur - consultant web",
+        "years": "10.2020 - actuel",
         "mainTech": [
-          "Angular 8/9/10"
+          "Wordpress",
+          "React",
+          "Bootstrap"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "WordPress",
+          "Woocommerce",
+          "React",
+          "Angular",
+          "Angular Materials",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "JavaScript",
+          "TypeScript",
+          "mySQL",
+          "Netlify",
+          "Custom DNS",
+          "Google Tools"
         ]
       },
       {
-        "company": "Company 811",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "ELCIA Groupe",
+        "title": "Développeur d'assistants vocaux",
+        "years": "04.2019 - 07.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "AWS",
+          "Google Assistant SDK"
         ]
       },
       {
-        "company": "Company 5555",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Auto-entrepreneur",
+        "title": "Freelance Développeur - consultant web",
+        "years": "12.2017 - 04.2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "Wordpress",
+          "Woocommerce"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "WordPress",
+          "Woocommerce",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "JavaScript",
+          "Microsoft Tools"
+        ]
+      },
+      {
+        "company": "Acti",
+        "title": "Développeur Back-End",
+        "years": "07.2017 - 12.2017",
+        "mainTech": [
+          "Drupal 7",
+          "WordPress"
+        ],
+        "technologies": [
+          "Framework Drupal",
+          "WordPress",
+          "Woocommerce",
+          "Bootstrap",
+          "PHP",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "SQL"
         ]
       }
     ]

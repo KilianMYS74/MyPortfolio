@@ -1,8 +1,8 @@
 @import '../src/scss/themes/theme-dark.scss';
 
 html {
-    font-size: 62.5%;
-    -webkit-font-smoothing: antialiased;
+  font-size: 62.5%;
+  -webkit-font-smoothing: antialiased;
  }
  
  header {
@@ -34,8 +34,8 @@ html {
     font-size: 400%;
     text-align: center;
     font-weight: 600 !important;
-    color: #353239; 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #353239;
+    font-family: Comfortaa-Regular, sans-serif;
     margin: 0 auto 18px auto;
     width: 100%;
  }
@@ -65,7 +65,7 @@ html {
  
  #about h1 {
     padding-top: 5%;
-    font: 18px/24px 'opensans-bold', sans-serif;
+    font: 18px/24px Comfortaa-Regular, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: black;
@@ -114,7 +114,7 @@ html {
    
   .project-title-settings {
     margin-top: 5%;
-    font: 18px/24px 'opensans-bold', sans-serif;
+    font: 18px/24px Comfortaa-Regular, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: black;
@@ -152,7 +152,7 @@ html {
  }
  
  .font-trebuchet {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Comfortaa-Regular, sans-serif;
  }
  
  #preview {
@@ -187,7 +187,7 @@ html {
     background-color:#9bb9d7 !important;
     color: white;
     font-weight: lighter !important;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Comfortaa-Regular, sans-serif;
  }
  
  .experience-badge {
@@ -198,7 +198,7 @@ html {
     background-color: #f9f5e9 !important;
     color: black;
     font-weight: lighter !important;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Comfortaa-Regular, sans-serif;
  }
  
  .vertical-timeline-element-date {
