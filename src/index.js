@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './fonts/Comfortaa-Bold.ttf';
 import './fonts/Comfortaa-Regular.ttf';
 import './fonts/Comfortaa-Light.ttf';
+import "typeface-comfortaa";
 
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.register();
